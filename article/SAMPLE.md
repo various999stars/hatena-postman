@@ -11,3 +11,7 @@
     1. 番号付きリスト
 
 [リンクの挿入 - hatena-postman](https://github.com/various999stars/hatena-postman)
+
+## 全角半角混在パターン
+1. ABC は ＡＢＣ
+2. CDE は ＣＤＥ
